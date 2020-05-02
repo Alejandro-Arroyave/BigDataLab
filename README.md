@@ -10,27 +10,29 @@ Para más información ver la bitácora [aquí](https://eafit.sharepoint.com/sit
 $ cd bigdata/02-mapreduce/
 $ python wordcount-local.py ../datasets/gutenberg-small/*.txt > outlocal.txt
 ```
-  - [salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outlocal.txt)
+   [salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outlocal.txt)
 
 - Wordcount con MRjob
 ```
 $ cd bigdata/02-mapreduce/
 $ python wordcount-mr.py -r local ../datasets/gutenberg-small/*.txt > outmrjob.txt
 ```
-  - [salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outlocal.txt)
+   [salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outlocal.txt)
 
 - Ejercicio escogido (Primer ejercicio)
 
-Realizar un programa en Map/Reduce, con hadoop en Python o Java, que permita calcular:
+  Realizar un programa en Map/Reduce, con hadoop en Python o Java, que permita calcular:
 
-  - El salario promedio por Sector Económico (SE)
+     - El salario promedio por Sector Económico (SE)
+      
   ```
   $ cd MapReduce/
   $ python Punto1-Salario.py ../bigdata/datasets/otros/dataempleados.csv > outpunto1.txt 
   ```    
-    - [Código](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/Punto1-Salario.py)
+  
+     [Código](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/Punto1-Salario.py)
     
-    - [Salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outpunto1.txt)
+     [Salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outpunto1.txt)
 
 Para ver la evidencia ir a la bitácora [aquí](https://eafit.sharepoint.com/sites/Section_ST0263-031/_layouts/15/Doc.aspx?sourcedoc={4fb201e7-5fdd-47d7-94b6-35d07c449fe7}&action=view&wd=target%28Johanna%20Sarai%20Caicedo%20Mejia%2FBig%20Bata.one%7C05843a6d-7fe5-4e7a-9600-9b969322777c%2FMapReduce%7C307fa2f4-c419-465a-88ec-8f275860919b%2F%29)
 
