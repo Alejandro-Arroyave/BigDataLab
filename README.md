@@ -9,7 +9,7 @@ Para más información ver la bitácora [aquí](https://eafit.sharepoint.com/sit
 
 ```
 $ cd bigdata/02-mapreduce/
-$ python wordcount-local.py ../datasets/gutenberg-small/*.txt > outlocal.txt
+$ python wordcount-local.py ../datasets/gutenberg-small/*.txt > ../../MapReduce/outlocal.txt
 ```
    [Salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outlocal.txt)
 
@@ -17,7 +17,7 @@ $ python wordcount-local.py ../datasets/gutenberg-small/*.txt > outlocal.txt
 
 ```
 $ cd bigdata/02-mapreduce/
-$ python wordcount-mr.py -r local ../datasets/gutenberg-small/*.txt > outmrjob.txt
+$ python wordcount-mr.py -r local ../datasets/gutenberg-small/*.txt > ../../MapReduce/outmrjob.txt
 ```
 
    [Salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outlocal.txt)
