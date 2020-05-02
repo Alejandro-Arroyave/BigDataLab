@@ -17,7 +17,8 @@ $ python wordcount-local.py ../datasets/gutenberg-small/*.txt > outlocal.txt
 $ cd bigdata/02-mapreduce/
 $ python wordcount-mr.py -r local ../datasets/gutenberg-small/*.txt > outmrjob.txt
 ```
-   [salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outlocal.txt)
+
+      [salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outlocal.txt)
 
 - Ejercicio escogido (Primer ejercicio)
 
