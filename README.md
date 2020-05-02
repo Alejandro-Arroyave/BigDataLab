@@ -5,7 +5,7 @@ Para más información ver la bitácora [aquí](https://eafit.sharepoint.com/sit
 
 ## 2. MapReduce
 
-- Wordcount local (DCA)
+- Wordcount local 
 
 ```
 $ cd bigdata/02-mapreduce/
@@ -26,7 +26,7 @@ $ python wordcount-mr.py -r local ../datasets/gutenberg-small/*.txt > outmrjob.t
 
   Realizar un programa en Map/Reduce, con hadoop en Python o Java, que permita calcular:
 
-     El salario promedio por Sector Económico (SE)
+   - El salario promedio por Sector Económico (SE)
       
   ```
   $ cd MapReduce/
@@ -37,7 +37,7 @@ $ python wordcount-mr.py -r local ../datasets/gutenberg-small/*.txt > outmrjob.t
     
      [Salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outpunto1.txt)
 
-     El salario promedio por Empleado
+   - El salario promedio por Empleado
       
   ```
   $ cd MapReduce/
@@ -48,7 +48,7 @@ $ python wordcount-mr.py -r local ../datasets/gutenberg-small/*.txt > outmrjob.t
     
      [Salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outpunto2.txt)
      
-     Número de SE por Empleado que ha tenido a lo largo de la estadística
+   - Número de SE por Empleado que ha tenido a lo largo de la estadística
       
   ```
   $ cd MapReduce/
