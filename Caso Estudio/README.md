@@ -58,6 +58,8 @@ limit 10
 
 ## Son los productos más visitados los que hacen parte de los de mayor rentabilidad? 
 
+| product name |
+| --------- |
 | Field & Stream Sportsman 16 Gun Fire Safe |
 | Perfect Fitness Perfect Rip Deck |
 | Diamondback Women\'s Serene Classic Comfort Bi |
