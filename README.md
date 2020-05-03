@@ -6,7 +6,8 @@ Para más información ver la bitácora [aquí](https://eafit.sharepoint.com/sit
 ## 2. MapReduce
 
 - Wordcount local 
-      Ejecutar el archivo [wordcount-local.py](https://github.com/jscaicedom/BigDataLab/blob/master/bigdata/02-mapreduce/wordcount-local.py)
+      
+     Ejecutar el archivo [wordcount-local.py](https://github.com/jscaicedom/BigDataLab/blob/master/bigdata/02-mapreduce/wordcount-local.py)
 
 ```
 $ cd bigdata/02-mapreduce/
@@ -16,6 +17,8 @@ $ python wordcount-local.py ../datasets/gutenberg-small/*.txt > ../../MapReduce/
    [Salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outlocal.txt)
 
 - Wordcount con MRjob
+
+     Ejecutar el archivo [wordcount-mr.py](https://github.com/jscaicedom/BigDataLab/blob/master/bigdata/02-mapreduce/wordcount-mr.py)
 
 ```
 $ cd bigdata/02-mapreduce/
