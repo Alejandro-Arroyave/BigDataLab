@@ -27,11 +27,14 @@ order by count desc
 limit 10
 ```
 
+
 | TITULO1| TITULO2|
 
 | ----- | ---- |
 
 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+
+
  
 | No| p.product_name|	count|
 
