@@ -36,28 +36,17 @@ limit 10
 
 
  
-| No| p.product_name|	count|
-
-| ----- | -------------- | ------ |  
-
+| No | p.product_name |	count |
+| ----- | -------------- | ------ |
 | 1 |	Perfect Fitness Perfect Rip Deck |	24515 |
-
 | 2 |	Nike Men\'s CJ Elite 2 TD Football Cleat |	22246 |
-
-| 3 |	Nike Men\'s Dri-FIT Victory Golf Polo	| 21035 | 
-
+| 3 |	Nike Men\'s Dri-FIT Victory Golf Polo	| 21035 |
 | 4	| O\'Brien Men\'s Neoprene Life Vest	| 19298 | 
-
 | 5 |	Field & Stream Sportsman 16 Gun Fire Safe |	17325 |
-
 | 6	| Pelican Sunstream 100 Kayak	| 15500 |
-
 | 7	| Diamondback Women\'s Serene Classic Comfort Bi |	13729 |
-
 | 8	| Nike Men\'s Free 5.0+ Running Shoe |	12169 |
-
 | 9	| Under Armour Girls\' Toddler Spine Surge Runni |	10617 |
-
 | 10	| Nike Men\'s Comfort 2 Slide	| 328 |
 
 
