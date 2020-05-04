@@ -59,6 +59,10 @@ Realizar un programa en Map/Reduce, con hadoop en Python o Java, que permita cal
     
 [Salida](https://github.com/jscaicedom/BigDataLab/blob/master/MapReduce/outpunto3.txt)
      
-## Para ver la evidencia ir a la bitácora [aquí](https://eafit.sharepoint.com/sites/Section_ST0263-031/_layouts/15/Doc.aspx?sourcedoc={4fb201e7-5fdd-47d7-94b6-35d07c449fe7}&action=view&wd=target%28Johanna%20Sarai%20Caicedo%20Mejia%2FBig%20Bata.one%7C05843a6d-7fe5-4e7a-9600-9b969322777c%2FMapReduce%7C307fa2f4-c419-465a-88ec-8f275860919b%2F%29)
+## EVIDENCIA
 
-[Volver](https://github.com/jscaicedom/BigDataLab)
+[PDF](https://github.com/jscaicedom/BigDataLab/blob/master/bitacoras/Lab2%20-%20MapReduce.pdf)
+
+[LINK OneNote](https://eafit.sharepoint.com/sites/Section_ST0263-031/_layouts/15/Doc.aspx?sourcedoc={4fb201e7-5fdd-47d7-94b6-35d07c449fe7}&action=view&wd=target%28Johanna%20Sarai%20Caicedo%20Mejia%2FBig%20Bata.one%7C05843a6d-7fe5-4e7a-9600-9b969322777c%2FMapReduce%7C307fa2f4-c419-465a-88ec-8f275860919b%2F%29)
+
+- [Volver](https://github.com/jscaicedom/BigDataLab)
